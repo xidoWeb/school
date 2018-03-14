@@ -1,0 +1,8 @@
+node_modules/
+scss/
+work/
+**/*.psd
+**/*.ai
+**/*.sketch
+**/*.config
+**/.DS_store
